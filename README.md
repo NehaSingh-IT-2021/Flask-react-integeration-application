@@ -25,6 +25,14 @@ Setup: (the following steps and commands are to be followed in windows)
 
 
 
+
+Screenshots of the same is attached here :
+![frontend image](https://user-images.githubusercontent.com/75617171/112715865-f18d1f00-8f08-11eb-8ddc-af80df676ef1.PNG)
+
+
+![Task1output](https://user-images.githubusercontent.com/75617171/112715872-f94cc380-8f08-11eb-9f47-bade0348c10d.PNG)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
