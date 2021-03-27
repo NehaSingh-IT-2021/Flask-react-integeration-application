@@ -11,7 +11,7 @@ As per the start date and end date provided on UI
 the data from the backend server is sent back.
 
 
-Setup: (the following steps and commands are to be followed in windows)
+## Setup: (the following steps and commands are to be followed in windows)
 1. Clone the repository
 2. Through the terminal/cli
 3. Navigate to api folder and activate a virtual environment 
