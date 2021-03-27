@@ -1,0 +1,5 @@
+numpy
+flask_cors
+matplotlib
+datetime
+opencv-python
