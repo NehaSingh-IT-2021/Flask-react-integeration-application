@@ -15,14 +15,14 @@ Setup: (the following steps and commands are to be followed in windows)
 1. Clone the repository
 2. Through the terminal/cli
 3. Navigate to api folder and activate a virtual environment 
-4. To activate a virtual environment enter command "python -m venv venv" followed by "venv\Script\activate"
-5. Install all the dependencies run the commmand "pip install -r requirements1.txt"
+4. To activate a virtual environment enter command "python -m venv venv" followed by "venv\Scripts\activate"
+5. Install flask by running the commmand "pip install flask"
 6. Open the code folder in file explorer and navigate from api folder to venv folder to Scripts folder and copy "flask.exe" file and move it to api folder
-7. Open "package.json file in editor and make changes in line 22 '  "start-flask-api": "cd api && flask run"  ' and save it.
-8. Now split the terminal and activate the environement by running the command "venv\Script\activate"
-9. Install all the dependencies run the commmand "pip install -r requirements2.txt"
-10. Through terminal window navigate to api folder and Start backend server using command "npm start-flask-api" 
-11. In the previous terminal after navigating to app folder, on the terminal give command "npm start"
+7. Install all the dependencies run the commmand "pip install -r requirements1.txt"
+8. Now split the terminal and activate the environement by running the command "venv\Script\activate" if it is not in the environment mode
+9. Install all the dependencies run the commmand "npm install -r requirements2.txt" if it gives error then manually install all the requirements listed in the txt file by running the command "npm install fask" and so on..
+10. In previous terminal window navigate to api folder and Start backend server using command "npm run start-flask-api" if there is an error run the command "pip install python-dotenv" and then run "npm run start-flask-api"
+11. In second terminal after navigating to app folder, on the terminal give command "npm start"
 
 
 
