@@ -25,12 +25,17 @@ Setup: (the following steps and commands are to be followed in windows)
 
 
 
+### output of Page :
 
-Screenshots of the same is attached here :
 ![frontend image](https://user-images.githubusercontent.com/75617171/112715865-f18d1f00-8f08-11eb-8ddc-af80df676ef1.PNG)
 
+### output of Task 1:
 
 ![Task1output](https://user-images.githubusercontent.com/75617171/112715872-f94cc380-8f08-11eb-9f47-bade0348c10d.PNG)
+
+### output of Task 2:
+
+![csv generated photo](https://user-images.githubusercontent.com/75617171/112715980-b0493f00-8f09-11eb-8d4e-18a6418841c8.PNG)
 
 
 # Getting Started with Create React App
