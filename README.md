@@ -17,9 +17,9 @@ the data from the backend server is sent back.
 3. Navigate to api folder and activate a virtual environment 
 4. To activate a virtual environment enter command "venv\Scripts\activate"
 7. Now split the terminal and activate the environement by running the command "venv\Script\activate" if it is not in the environment mode
-8. Install all the dependencies run the commmand "npm install -r requirements2.txt" if it gives error then manually install all the requirements listed in the txt file by running the command "npm install fask" and so on..
-9. In previous terminal window navigate to api folder and Start backend server using command "npm run start-flask-api" if there is an error run the command "pip install python-dotenv" and then run "npm run start-flask-api"
-10. In second terminal after navigating to src folder, on the terminal give command "npm start"
+8. In the terminal navigate to src folder and then install all the dependencies run the commmand "npm install -r requirements2.txt" if it gives error then manually install all the requirements listed in the txt file by running the command "npm install fask" and so on..
+9. In previous terminal window navigate to api folder and Start backend server using command "npm run start-flask-api" if there is an error run the command "pip install python-dotenv" and then run "npm run start-flask-api" then,
+10. In second terminal inside src folder, on the terminal give command "npm start"
 
 
 
